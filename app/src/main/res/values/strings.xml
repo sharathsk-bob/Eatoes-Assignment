@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eatoes</string>
+    <string name="signup"><br><u>Signup</u></br></string>
+    <string name="dont_have_an_eatoes_account"><br><u>Dont have an Eatoes account</u></br></string>
+    <string name="hello"><div><center>Hello</center><br>{{ email_id_from_the_login_page }}
+    </br><br><center>Your token is</center></br><br>{{ token_received_in_the_api_response }}</br></div>
+        <div>
+    <br>e.g.</br>
+        <center>
+        <br>Hello</br>
+        <br>john.doe@example.com</br>
+        <br>Your token is</br>
+        <br>QpwL5tke4Pnpja7X4</br>
+        </center></div></string>
+</resources>
